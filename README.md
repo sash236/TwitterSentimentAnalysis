@@ -10,7 +10,7 @@ Twitter stream was initially collected using Twitter API.
 
 AFINN is a list of English words rated for valence with an integer
 between minus five (negative) and plus five (positive). The words have
-been manually labeled by Finn Ã…rup Nielsen in 2009-2011. The file
+been manually labeled by Finn Nielsen in 2009-2011. The file
 is tab-separated. There are two versions:
 
 AFINN-111: Newest version with 2477 words and phrases.
