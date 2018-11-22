@@ -40,3 +40,6 @@ http://www.opendatacommons.org/licenses/odbl/1.0/ or a similar
 copyleft license.
 
 Source: http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010
+
+Reference:
+https://finnaarupnielsen.wordpress.com/2011/03/16/afinn-a-new-word-list-for-sentiment-analysis/
