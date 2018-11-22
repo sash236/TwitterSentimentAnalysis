@@ -13,7 +13,8 @@ between minus five (negative) and plus five (positive). The words have
 been manually labeled by Finn Nielsen in 2009-2011. The file
 is tab-separated. There are two versions:
 
-AFINN-111: Newest version with 2477 words and phrases.
+AFINN-111: Newest version with 2477 words and phrases. One can see the list here:
+https://github.com/fnielsen/afinn/blob/master/afinn/data/AFINN-111.txt
 
 AFINN-96: 1468 unique words and phrases on 1480 lines. Note that there
 are 1480 lines, as some words are listed twice. The word list in not
