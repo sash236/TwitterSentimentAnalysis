@@ -20,10 +20,13 @@ are 1480 lines, as some words are listed twice. The word list in not
 entirely in alphabetic ordering.  
 
 An evaluation of the word list is available in:
-
+Finn Årup Nielsen
+"A new ANEW: Evaluation of a word list for sentiment analysis in microblogs",
+Proceedings of the ESWC2011 Workshop on 'Making Sense of Microposts':
+Big things come in small packages 718 in CEUR Workshop Proceedings : 93-98. 2011 May.
+http://arxiv.org/abs/1103.2903
 
 The list was used in: 
-
 Lars Kai Hansen, Adam Arvidsson, Finn Ã…rup Nielsen, Elanor Colleoni,
 Michael Etter, "Good Friends, Bad News - Affect and Virality in
 Twitter", The 2011 International Workshop on Social Computing,
